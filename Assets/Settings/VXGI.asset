@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dfade0e93e389af40ae39dd1d77495ed, type: 3}
-  m_Name: VXGINEW
+  m_Name: VXGI
   m_EditorClassIdentifier: 
   dynamicBatching: 0
   SRPBatching: 0
-  environmentLighting: 0
-  environmentReflections: 0
+  environmentLighting: 1
+  environmentReflections: 1
